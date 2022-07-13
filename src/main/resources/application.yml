@@ -5,7 +5,7 @@ spring:
     allow-circular-references: true
   datasource:
     driverClassName: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3308/clients
+    url: jdbc:mysql://localhost:3308/client-database
     username: root
     password: clean-code
   jpa:
